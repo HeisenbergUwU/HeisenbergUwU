@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Heisenberg aka l.qi!
 
 - 🎯 Focus: Java, Distributed Systems, LLMs, U3D
-- 💼 Ex-algorithm engineer, currently exploring open source
+- 💼 Algr & Full stack engineer, currently exploring open source
 - 🚴‍♂️ Love mountain cycling and playing guitar
 - 📫 Contact: heisenberg@buaa.edu.cn
 
