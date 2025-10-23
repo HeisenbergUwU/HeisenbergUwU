@@ -6,6 +6,6 @@
 - 📫 Contact: heisenberg@buaa.edu.cn
 
 ## 📌 Pinned Projects
-1. watch&learn RocketMQ
-2. Game develop U3D
-3. build my cycling game
+1. watch&learn RocketMQ resource code
+2. netty source code
+3. Kubeshere source code... Help me about GO..
