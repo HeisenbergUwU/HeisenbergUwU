@@ -8,4 +8,6 @@
 ## 📌 Pinned Projects
 1. watch&learn RocketMQ resource code
 2. netty source code
-3. Kubeshere source code... Help me about GO..
+3. Building tinyNetty Now..
+
+> ✋🏻 Nobody know coding better than me. ✋🏻  -- :) 🪗
